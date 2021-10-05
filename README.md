@@ -1,2 +1,5 @@
-# CSClub-Website
-We're building a Club Website for our CS club 
+# README.md
+
+This project is CSClub-Website, a Club Website for the Computer Science club at Polytechnic School in Pasadena, California.
+
+
