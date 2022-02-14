@@ -9,11 +9,12 @@ body    {
             margin: 0; 
             border: 0; 
             padding: 0; 
-            font-family: Georgia, Garamond, serif;
+            font-family: 'Readex Pro', sans-serif;
+            /* font-family: Georgia, Garamond, serif; */
             font-size: 100%; 
             font-weight: normal; 
             color: #000; 
-            background-color: #fff;
+            background-color: #FEF1E6;
         }
         
 a:link, a:visited	
@@ -60,7 +61,7 @@ main    {
 
 /* 
     The container class is used to limit the width of the content 
-    on the page to a maximum of of 800px: white space is added to 
+    on the page to a maximum of 800px: white space is added to 
     either side for browser windows that are wider than that.
 */
 .container 
@@ -84,8 +85,8 @@ footer     {
                 margin: 0; 
                 border: 0; 
                 padding: 0 1em; 
-                background: #008; 
-                color: #fff; 
+                background: #90AACB; 
+                color: black; 
                 font-size: 90%; 
                 text-align: center; 
                 overflow: auto; 
