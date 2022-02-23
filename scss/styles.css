@@ -11,7 +11,21 @@ body {
   font-family: 'Readex Pro', sans-serif;
   font-size: 100%;
   font-weight: normal;
-  color: #000;
+  color: black;
   background: #FEF1E6;
+}
+
+/* adding a break point at 1000 px */
+@media screen and (max-width: 1000px) {
+  h1 {
+    color: blue;
+  }
+}
+
+/* adding a break point at 700 px */
+@media screen and (max-width: 700px) {
+  h1 {
+    color: red;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
